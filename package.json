@@ -29,7 +29,7 @@
     "react-tagsinput": "^3.19.0",
     "react-validation": "^3.0.7",
     "serve": "^11.0.2",
-    "validator": "^11.0.0"
+    "validator": "^13.7.0"
   },
   "scripts": {
     "start": "react-scripts start",
